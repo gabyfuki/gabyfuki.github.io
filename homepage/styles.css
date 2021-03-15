@@ -1,0 +1,61 @@
+
+
+h1, h2 {
+                text-align: center;
+                font-family: 'Big Shoulders Display', cursive;
+                 color: crimson;
+                 font-size: 45px;
+            }
+h3{
+    color: Maroon;
+}
+
+#Gaby{
+    color: navy;
+}
+
+h4{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: navy;
+}
+
+body {
+    background-color: #fce9e9;
+
+}
+.container {
+                width: 80%;
+                margin: auto;
+            }
+
+#leos {
+                width: 800px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+#pasta, #pizza2, #pizza, #food, #pizza3, #inside, #pic, #ba, #bar2{
+     width: 350px;
+     height: 250px;
+}
+
+#poconos, #snowy, #clouds {
+                border-radius: 50%;
+                width: 350px;
+            }
+#essay{
+    text-indent: 50px;
+}
+
+#my{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+}
+#map{
+    width: 875px;
+}
+#table {
+    table-layout: fixed;
+     width: 110%;
+}
